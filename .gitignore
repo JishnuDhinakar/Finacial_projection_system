@@ -1,3 +1,5 @@
 portfolio.json
 __pycache__/
-*.pyc
+
+# personal data
+portfolio.json
