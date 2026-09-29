@@ -2,7 +2,7 @@
 
 ## Project Title
 
-**Portfolio Projection and Management System** [match the README name]
+**Financial Projection System** 
 
 ## Problem Statement
 
@@ -36,7 +36,7 @@ This project is a command-line portfolio manager that fixes that. Holdings are s
 
 ## Key Features
 
-1. **Data entry:** add a holding and record its details in one pass. [state how many prompts or steps it takes, if you want to keep a claim about speed]
+1. **Data entry:** add a holding and record its details in one pass. 
 2. **Portfolio management:** view, edit and delete saved holdings.
 3. **Projection engine:** estimates future value using rules specific to each asset type, plus user-defined rules for custom assets.
 4. **Reporting:** compares current and projected totals for each holding and for the portfolio overall.
